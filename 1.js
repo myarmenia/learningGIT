@@ -1,3 +1,3 @@
 function f1(){
-	alert('Barev')
+	alert('Barev1')
 }
